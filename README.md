@@ -9,8 +9,8 @@
 ## Features
 
 ### For Guests:
-**User Authentication:** Guests can create accounts, and can continue to booking the rooms.
-**Room Details:** Detailed descriptions, images, and pricing information for each room category allow guests to make informed decisions.
-**Booking Process:** Guests can quickly search for available rooms based by providing Location, Check-In, Check-Out Date and Person count.
+* **User Authentication:** Guests can create accounts, and can continue to booking the rooms.
+* **Room Details:** Detailed descriptions, images, and pricing information for each room category allow guests to make informed decisions.
+* **Booking Process:** Guests can quickly search for available rooms based by providing Location, Check-In, Check-Out Date and Person count.
 
 
