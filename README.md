@@ -13,4 +13,9 @@
 * **Room Details:** Detailed descriptions, images, and pricing information for each room category allow guests to make informed decisions.
 * **Booking Process:** Guests can quickly search for available rooms based by providing Location, Check-In, Check-Out Date and Person count.
 
+### For Hotel Owner/Administrators:
+* **Dashboard:** The system provides a dashboard, accessible to authorized hotel staff which shows Toal Rooms, Available Rooms, Unavailable Rooms and Reservations.
+* **Room Management:** Hotel staff can effortlessly add, edit, or remove rooms, set pricing, and update room availability.
+* **Reservation Handling:** The admin dashboard allows to view and manage reservations based on location.
+
 
